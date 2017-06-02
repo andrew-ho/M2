@@ -88,26 +88,13 @@ import edu.gatech.oad.antlab.pkg2.*;
      public static void main(String[] args) {
 
         new AntLabMain().printOutMessage();
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 88696ed0a738bb17ebf452b8283a86e7af54c925
-
      }
 
 
 
 
- }
-<<<<<<< HEAD
-=======
-=======
+}
+
         
-     } 
+ 
     
-    
-    
-    
- } 
->>>>>>> origin/master
->>>>>>> 88696ed0a738bb17ebf452b8283a86e7af54c925
