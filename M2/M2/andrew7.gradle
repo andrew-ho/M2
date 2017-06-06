@@ -1,5 +1,8 @@
 apply plugin: 'java'
 jar {
+baseName 'atuttle7'
+archiveName = 'atuttle7.jar'
+version = '1.0'
     manifest {
         attributes 'Main-Class': 'edu/gatech/oad/antlab/pkg1/AntLabMain',
         'Class-Path': '../../lib/resources.jar'
