@@ -4,6 +4,9 @@ defaultTasks 'Jar'
 
 jar {
 
+    baseName 'yyeh35'
+    archiveName = 'yyeh35.jar'
+
     manifest {
         attributes 'Main-Class': 'edu/gatech/oad/antlab/pkg1/AntLabMain',
                    'Class-Path': '../../lib/resources.jar'
