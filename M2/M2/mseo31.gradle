@@ -1,4 +1,7 @@
 apply plugin: 'java'
+
+defaultTasks 'Jar'
+
 jar{
 	manifest{
 		attributes 'Implementation-Title' : 'M2',
